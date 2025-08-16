@@ -10,30 +10,7 @@
 
 ---
 
-## 🚀 About Me
 
-```javascript
-const nikhil = {
-  pronouns: "he" | "him",
-  code: ["JavaScript", "Python", "Java", "Kotlin"],
-  technologies: {
-    frontEnd: {
-      js: ["React", "Vue", "GSAP"],
-      css: ["Bootstrap", "Tailwind CSS"]
-    },
-    backEnd: {
-      js: ["Node.js", "Express"],
-      python: ["Django"]
-    },
-    databases: ["SQLite", "MongoDB"],
-    tools: ["Git", "Linux"]
-  },
-  currentFocus: "Revolutionizing daily dining with seamless reservations",
-  funFact: "I'm a humorous extrovert who loves turning coffee into code! ☕"
-};
-```
-
----
 
 ## 🛠️ Tech Stack
 
@@ -123,14 +100,7 @@ const nikhil = {
 
 ---
 
-## ⚡ Fun Facts
 
-- 🎭 I'm a humorous extrovert who loves connecting with people
-- ☕ Coffee is my fuel for coding sessions
-- 🚀 Always excited to learn new technologies
-- 🎯 Passionate about creating user-friendly web experiences
-
----
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=programmer-nick234&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
