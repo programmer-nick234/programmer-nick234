@@ -5,18 +5,7 @@
   </div>
 </div>
 
-<!-- Modern status badges with hover effects -->
-<div align="center">
-  <a href="https://komarev.com/ghpvc/?username=programmer-nick234&style=flat-square&color=00d4ff&label=PROFILE+VIEWS">
-    <img src="https://komarev.com/ghpvc/?username=programmer-nick234&style=flat-square&color=00d4ff&label=PROFILE+VIEWS" alt="Profile Views" />
-  </a>
-  <a href="mailto:nikhilbajantri86@gmail.com">
-    <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-00d4ff?style=for-the-badge&logo=code&logoColor=white" alt="Status" />
-  </a>
-  <img src="https://img.shields.io/badge/Location-India-00d4ff?style=for-the-badge&logo=location&logoColor=white" alt="Location" />
-</div>
 
-<br>
 
 <!-- Modern section divider -->
 <div align="center">
@@ -105,25 +94,34 @@
 
 ## 🎯 Current Focus
 
-<!-- Modern focus section with icons -->
+<!-- Enhanced focus section with modern design -->
 <div align="center">
-  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 2rem; border-radius: 15px; margin: 2rem 0;">
-    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1rem; text-align: left;">
-      <div style="background: rgba(255,255,255,0.1); padding: 1rem; border-radius: 10px; backdrop-filter: blur(10px);">
-        <h4 style="color: #00d4ff; margin: 0 0 0.5rem 0;">🔭 Working on</h4>
-        <p style="color: white; margin: 0;">Revolutionizing daily dining with seamless reservations</p>
+  <div style="background: linear-gradient(135deg, #0f0f23 0%, #1a1a2e 50%, #16213e 100%); padding: 3rem; border-radius: 20px; margin: 2rem 0; border: 2px solid #00d4ff; box-shadow: 0 20px 40px rgba(0, 212, 255, 0.1);">
+    <h2 style="color: #00d4ff; font-size: 2.5rem; margin-bottom: 2rem; text-align: center; text-shadow: 0 0 20px rgba(0, 212, 255, 0.5);">What I'm Up To</h2>
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem; text-align: center;">
+      <div style="background: linear-gradient(145deg, rgba(0, 212, 255, 0.1), rgba(0, 212, 255, 0.05)); padding: 2rem; border-radius: 15px; border: 1px solid rgba(0, 212, 255, 0.2); transition: transform 0.3s ease, box-shadow 0.3s ease; position: relative; overflow: hidden;">
+        <div style="position: absolute; top: 0; left: 0; right: 0; height: 3px; background: linear-gradient(90deg, #00d4ff, #667eea);"></div>
+        <div style="font-size: 3rem; margin-bottom: 1rem;">🚀</div>
+        <h3 style="color: #00d4ff; margin: 0 0 1rem 0; font-size: 1.3rem; font-weight: bold;">Working on</h3>
+        <p style="color: #ffffff; margin: 0; line-height: 1.6; font-size: 1.1rem;">Revolutionizing daily dining with seamless reservations</p>
       </div>
-      <div style="background: rgba(255,255,255,0.1); padding: 1rem; border-radius: 10px; backdrop-filter: blur(10px);">
-        <h4 style="color: #00d4ff; margin: 0 0 0.5rem 0;">🌱 Learning</h4>
-        <p style="color: white; margin: 0;">Advanced Software Development practices</p>
+      <div style="background: linear-gradient(145deg, rgba(0, 212, 255, 0.1), rgba(0, 212, 255, 0.05)); padding: 2rem; border-radius: 15px; border: 1px solid rgba(0, 212, 255, 0.2); transition: transform 0.3s ease, box-shadow 0.3s ease; position: relative; overflow: hidden;">
+        <div style="position: absolute; top: 0; left: 0; right: 0; height: 3px; background: linear-gradient(90deg, #00d4ff, #667eea);"></div>
+        <div style="font-size: 3rem; margin-bottom: 1rem;">🌱</div>
+        <h3 style="color: #00d4ff; margin: 0 0 1rem 0; font-size: 1.3rem; font-weight: bold;">Learning</h3>
+        <p style="color: #ffffff; margin: 0; line-height: 1.6; font-size: 1.1rem;">Advanced Software Development practices</p>
       </div>
-      <div style="background: rgba(255,255,255,0.1); padding: 1rem; border-radius: 10px; backdrop-filter: blur(10px);">
-        <h4 style="color: #00d4ff; margin: 0 0 0.5rem 0;">👯 Collaborating</h4>
-        <p style="color: white; margin: 0;">Enterprise-level projects</p>
+      <div style="background: linear-gradient(145deg, rgba(0, 212, 255, 0.1), rgba(0, 212, 255, 0.05)); padding: 2rem; border-radius: 15px; border: 1px solid rgba(0, 212, 255, 0.2); transition: transform 0.3s ease, box-shadow 0.3s ease; position: relative; overflow: hidden;">
+        <div style="position: absolute; top: 0; left: 0; right: 0; height: 3px; background: linear-gradient(90deg, #00d4ff, #667eea);"></div>
+        <div style="font-size: 3rem; margin-bottom: 1rem;">🤝</div>
+        <h3 style="color: #00d4ff; margin: 0 0 1rem 0; font-size: 1.3rem; font-weight: bold;">Collaborating</h3>
+        <p style="color: #ffffff; margin: 0; line-height: 1.6; font-size: 1.1rem;">Enterprise-level projects</p>
       </div>
-      <div style="background: rgba(255,255,255,0.1); padding: 1rem; border-radius: 10px; backdrop-filter: blur(10px);">
-        <h4 style="color: #00d4ff; margin: 0 0 0.5rem 0;">💬 Ask me about</h4>
-        <p style="color: white; margin: 0;">React, Vue, or GSAP magic!</p>
+      <div style="background: linear-gradient(145deg, rgba(0, 212, 255, 0.1), rgba(0, 212, 255, 0.05)); padding: 2rem; border-radius: 15px; border: 1px solid rgba(0, 212, 255, 0.2); transition: transform 0.3s ease, box-shadow 0.3s ease; position: relative; overflow: hidden;">
+        <div style="position: absolute; top: 0; left: 0; right: 0; height: 3px; background: linear-gradient(90deg, #00d4ff, #667eea);"></div>
+        <div style="font-size: 3rem; margin-bottom: 1rem;">💬</div>
+        <h3 style="color: #00d4ff; margin: 0 0 1rem 0; font-size: 1.3rem; font-weight: bold;">Ask me about</h3>
+        <p style="color: #ffffff; margin: 0; line-height: 1.6; font-size: 1.1rem;">React, Vue, or GSAP magic!</p>
       </div>
     </div>
   </div>
@@ -163,24 +161,14 @@
 
 <br>
 
-<!-- Modern activity graph -->
+<!-- Dark activity graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=programmer-nick234&theme=tokyonight&hide_border=true&area=true&area_color=00d4ff&line=00d4ff&point=ffffff&color=ffffff" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=programmer-nick234&theme=github-dark&hide_border=true&area=true&area_color=00d4ff&line=00d4ff&point=ffffff&color=ffffff&bg_color=0d1117" alt="GitHub Activity Graph" />
 </div>
 
 <br>
 
-<!-- Modern footer with gradient -->
-<div align="center">
-  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 1rem; border-radius: 15px; margin-top: 2rem;">
-    <p style="color: white; margin: 0; font-size: 1.1rem;">
-      <strong>Thanks for visiting! 🚀</strong>
-    </p>
-    <p style="color: rgba(255,255,255,0.8); margin: 0.5rem 0 0 0; font-size: 0.9rem;">
-      Let's build something amazing together!
-    </p>
-  </div>
-</div>
+
 
 <!-- Modern wave footer -->
 <div align="center">
